@@ -2,6 +2,8 @@
 
 A Custom Clipper that makes its child look like a sine ware
 
+- [Screenshot](https://github.com/rajeshzmoke/Flutter_SineWave_Clipper_Appbar/blob/master/assets/example.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
