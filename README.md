@@ -2,7 +2,7 @@
 
 A Custom Clipper that makes its child look like a sinewave
 
-[<img src="https://github.com/rajeshzmoke/Flutter_SineWave_Clipper_Appbar/blob/master/assets/example.png" width="270" height="480" alt="Example Screenshot" align="left">](https://github.com/rajeshzmoke/Flutter_SineWave_Clipper_Appbar/blob/master/assets/example.png)
+[<img src="https://github.com/rajeshzmoke/Flutter_SineWave_Clipper_Appbar/blob/master/assets/example.png" width="270" height="480" alt="Example Screenshot" align="center">](https://github.com/rajeshzmoke/Flutter_SineWave_Clipper_Appbar/blob/master/assets/example.png)
 
 ## Getting Started
 
